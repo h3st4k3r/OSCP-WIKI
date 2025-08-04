@@ -2,6 +2,8 @@
 
 Este repositorio ha sido diseñado como un entorno de estudio estructurado, realista y altamente práctico para preparar el examen OSCP (Offensive Security Certified Professional), siguiendo una metodología manual, clara y centrada en lo esencial. No se incluyen herramientas o técnicas prohibidas en el examen, y se prioriza el uso de comandos, scripts y procedimientos aceptados por Offensive Security.
 
+Se recomienda descargar el repositorio y abrirlo directamente con Obsidian, de esta forma se facilita el trabajo en local de esta manera.
+
 Nota: Durante el examen no se pueden usar automatizaciones, pero, para realizar CTFs si, para ello puedes encontrar este otro desarrollo y poder sacar información de forma automatizada resolviendo mucho antes los CTFs: https://github.com/h3st4k3r/ReconBreaker.
 
 <img width="1024" height="1536" alt="OSCP-WIKI-h3st4k3r" src="https://github.com/user-attachments/assets/4459bf8c-4195-4afe-8dd9-741bcae7d4c2" />
