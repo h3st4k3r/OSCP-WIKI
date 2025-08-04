@@ -4,6 +4,8 @@ Este repositorio ha sido diseñado como un entorno de estudio estructurado, real
 
 Nota: Durante el examen no se pueden usar automatizaciones, pero, para realizar CTFs si, para ello puedes encontrar este otro desarrollo y poder sacar información de forma automatizada resolviendo mucho antes los CTFs: https://github.com/h3st4k3r/ReconBreaker.
 
+<img width="1024" height="1536" alt="OSCP-WIKI-h3st4k3r" src="https://github.com/user-attachments/assets/4459bf8c-4195-4afe-8dd9-741bcae7d4c2" />
+
 ---
 
 ## Estructura del Repositorio
